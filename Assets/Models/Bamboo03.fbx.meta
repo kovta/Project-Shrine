@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 52bc10fa1354caf43b9cfa90e815d13e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface10_Untitled.004
+    100004: polySurface11_Untitled.002
+    100006: polySurface12_Untitled.009
+    100008: polySurface13_Untitled.001
+    100010: polySurface3.001_Untitled.008
+    100012: polySurface3.001_Untitled.008_MeshPart0
+    100014: polySurface3.001_Untitled.008_MeshPart1
+    100016: polySurface3_Untitled.003
+    100018: polySurface3_Untitled.003_MeshPart0
+    100020: polySurface3_Untitled.003_MeshPart1
+    100022: polySurface4.001_Untitled
+    100024: polySurface4_Untitled.010
+    100026: polySurface6_Untitled.006
+    100028: polySurface7_Untitled.011
+    100030: polySurface8_Untitled.007
+    100032: polySurface9_Untitled.005
+    400000: //RootNode
+    400002: polySurface10_Untitled.004
+    400004: polySurface11_Untitled.002
+    400006: polySurface12_Untitled.009
+    400008: polySurface13_Untitled.001
+    400010: polySurface3.001_Untitled.008
+    400012: polySurface3.001_Untitled.008_MeshPart0
+    400014: polySurface3.001_Untitled.008_MeshPart1
+    400016: polySurface3_Untitled.003
+    400018: polySurface3_Untitled.003_MeshPart0
+    400020: polySurface3_Untitled.003_MeshPart1
+    400022: polySurface4.001_Untitled
+    400024: polySurface4_Untitled.010
+    400026: polySurface6_Untitled.006
+    400028: polySurface7_Untitled.011
+    400030: polySurface8_Untitled.007
+    400032: polySurface9_Untitled.005
+    2300000: polySurface10_Untitled.004
+    2300002: polySurface11_Untitled.002
+    2300004: polySurface12_Untitled.009
+    2300006: polySurface13_Untitled.001
+    2300008: polySurface3.001_Untitled.008_MeshPart0
+    2300010: polySurface3.001_Untitled.008_MeshPart1
+    2300012: polySurface3_Untitled.003_MeshPart0
+    2300014: polySurface3_Untitled.003_MeshPart1
+    2300016: polySurface4.001_Untitled
+    2300018: polySurface4_Untitled.010
+    2300020: polySurface6_Untitled.006
+    2300022: polySurface7_Untitled.011
+    2300024: polySurface8_Untitled.007
+    2300026: polySurface9_Untitled.005
+    3300000: polySurface10_Untitled.004
+    3300002: polySurface11_Untitled.002
+    3300004: polySurface12_Untitled.009
+    3300006: polySurface13_Untitled.001
+    3300008: polySurface3.001_Untitled.008_MeshPart0
+    3300010: polySurface3.001_Untitled.008_MeshPart1
+    3300012: polySurface3_Untitled.003_MeshPart0
+    3300014: polySurface3_Untitled.003_MeshPart1
+    3300016: polySurface4.001_Untitled
+    3300018: polySurface4_Untitled.010
+    3300020: polySurface6_Untitled.006
+    3300022: polySurface7_Untitled.011
+    3300024: polySurface8_Untitled.007
+    3300026: polySurface9_Untitled.005
+    4300000: polySurface9_Untitled.005
+    4300002: polySurface8_Untitled.007
+    4300004: polySurface3.001_Untitled.008_MeshPart0
+    4300006: polySurface3.001_Untitled.008_MeshPart1
+    4300008: polySurface10_Untitled.004
+    4300010: polySurface3_Untitled.003_MeshPart0
+    4300012: polySurface3_Untitled.003_MeshPart1
+    4300014: polySurface4.001_Untitled
+    4300016: polySurface7_Untitled.011
+    4300018: polySurface6_Untitled.006
+    4300020: polySurface13_Untitled.001
+    4300022: polySurface11_Untitled.002
+    4300024: polySurface4_Untitled.010
+    4300026: polySurface12_Untitled.009
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: file1Material.001
+    second: {fileID: 2100000, guid: bd7cae4e75697ab4299c2f21edf9bbc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: file2Material.001
+    second: {fileID: 2100000, guid: 292c955512cf7f4448e885fb9b99ceef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: file3Material.001
+    second: {fileID: 2100000, guid: d1edfe73a738a3a4e83771e6d3dbddd6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

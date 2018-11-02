@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 4c400f71892c0bb4c9ea3f371c19d245
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: hibukuro
+    100002: hoju
+    100004: kaeribana
+    100006: kasa
+    100008: nakadai
+    100010: sao
+    100012: //RootNode
+    100014: ukehana
+    400000: hibukuro
+    400002: hoju
+    400004: kaeribana
+    400006: kasa
+    400008: nakadai
+    400010: sao
+    400012: //RootNode
+    400014: ukehana
+    2300000: hibukuro
+    2300002: hoju
+    2300004: kaeribana
+    2300006: kasa
+    2300008: nakadai
+    2300010: sao
+    2300012: ukehana
+    3300000: hibukuro
+    3300002: hoju
+    3300004: kaeribana
+    3300006: kasa
+    3300008: nakadai
+    3300010: sao
+    3300012: ukehana
+    4300000: hibukuro
+    4300002: hoju
+    4300004: kaeribana
+    4300006: kasa
+    4300008: nakadai
+    4300010: sao
+    4300012: ukehana
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hibukuroMat
+    second: {fileID: 2100000, guid: 9c8741468dc473941beecf364841aaec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hojuMat
+    second: {fileID: 2100000, guid: 8f286e4b1b2cc5b46b9c95a88d1f03aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kaeribanaMat
+    second: {fileID: 2100000, guid: 2be722da64687af4385047d1c13e579b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kasaMat
+    second: {fileID: 2100000, guid: 753ec743d47edd946887416b28325b1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nakadaiMat
+    second: {fileID: 2100000, guid: 1cee292a8ce7ae8499babc1367d796ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: saoMat
+    second: {fileID: 2100000, guid: 00b50a1b8c2150c48ab63b1e6af36212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ukehanaMat
+    second: {fileID: 2100000, guid: f072223f2d51f7445be8b68228d4da61, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
